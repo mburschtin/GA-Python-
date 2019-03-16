@@ -2,10 +2,7 @@
 print('hello world') # this is a comment
 
 
-
-
-# Algorithms in real-life - Objective: how to get from home from work?
-
+# Algorithms in real-life - Objective how to get from home from work?
 print('Start Walk home from work')
 print('\tInput home: home address')
 print('\tInput work: work address')
@@ -13,9 +10,15 @@ print('\tIdentify distance north/south')
 print('\tIdentify distance east/west')
 print('\tIdentify direction north or south')
 print('\tIdentify direction east or west')
+
+# Instructions for walking
+
 print('If walk,')
 print('\tWalk direction north/south*distance north/south')
 print('\tWalk direction east/west*distance east/west')
+
+# Instructions for subway
+
 print('If subway, ')
 print('\tCheck repairs delays accidents')
 print('\tCheck subway map')
